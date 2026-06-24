@@ -30,19 +30,22 @@ jobs:
           gradle-version: '8.7'
 
       - name: Generate Gradle wrapper (so this repo is self-sufficient afterward)
+        working-directory: TEEAcademy
         run: gradle wrapper --gradle-version 8.7
 
       - name: Build debug APK
+        working-directory: TEEAcademy
         run: gradle assembleDebug --no-daemon --stacktrace
 
       - name: Run unit tests (incl. content-validation suite)
+        working-directory: TEEAcademy
         run: gradle testDebugUnitTest --no-daemon --stacktrace
 
       - name: Upload debug APK artifact
         uses: actions/upload-artifact@v4
         with:
           name: tee-academy-debug-apk
-          path: app/build/outputs/apk/debug/app-debug.apk
+          path: TEEAcademy/app/build/outputs/apk/debug/app-debug.apk
           if-no-files-found: error
 
       - name: Upload generated Gradle wrapper (commit these to your repo for ./gradlew support)
@@ -50,9 +53,9 @@ jobs:
         with:
           name: gradle-wrapper-files
           path: |
-            gradlew
-            gradlew.bat
-            gradle/wrapper/
+            TEEAcademy/gradlew
+            TEEAcademy/gradlew.bat
+            TEEAcademy/gradle/wrapper/
           if-no-files-found: ignore
 
       - name: Upload test results (for diagnosing any failures)
@@ -60,5 +63,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: unit-test-results
-          path: app/build/test-results/
+          path: TEEAcademy/app/build/test-results/
           if-no-files-found: ignore
