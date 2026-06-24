@@ -1,0 +1,9 @@
+[
+  { "id": "mod0", "orderIndex": 0, "title": "Foundations", "description": "Indications, safety, probe handling, imaging planes.", "iconRes": "ic_foundations" },
+  { "id": "mod1", "orderIndex": 1, "title": "Basic 11-View Exam", "description": "The ASE/SCA basic perioperative TEE examination.", "iconRes": "ic_basic_exam" },
+  { "id": "mod2", "orderIndex": 2, "title": "Comprehensive 28-30 View Exam", "description": "The full comprehensive TEE protocol.", "iconRes": "ic_comprehensive" },
+  { "id": "mod3", "orderIndex": 3, "title": "3D Echocardiography", "description": "3D acquisition, rendering, and quantitation.", "iconRes": "ic_3d" },
+  { "id": "mod4", "orderIndex": 4, "title": "Pathology", "description": "Valve disease, LAA, septal defects, endocarditis, pericardial disease.", "iconRes": "ic_pathology" },
+  { "id": "mod5", "orderIndex": 5, "title": "Interventional / Structural Heart TEE", "description": "Pre-procedural screening protocols.", "iconRes": "ic_interventional" },
+  { "id": "mod6", "orderIndex": 6, "title": "Self-Assessment", "description": "Board-style question banks.", "iconRes": "ic_quiz" }
+]

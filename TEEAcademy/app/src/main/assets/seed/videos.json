@@ -1,0 +1,28 @@
+[
+  {
+    "id": "vid_3.1.1_3d_modes",
+    "lessonId": null,
+    "caseId": null,
+    "localAssetPath": null,
+    "remoteUrl": null,
+    "caption": "Comparison of narrow-angle vs. wide-angle 3D acquisition.",
+    "transcript": null,
+    "durationSec": 0,
+    "sourceCode": null,
+    "licenseString": null,
+    "status": "PLACEHOLDER_PENDING_LICENSED_ASSET"
+  },
+  {
+    "id": "vid_external_virtual_tee",
+    "lessonId": null,
+    "caseId": null,
+    "localAssetPath": null,
+    "remoteUrl": "http://pie.med.utoronto.ca/TEE/index.htm",
+    "caption": "Virtual TEE — interactive 20-view simulator (Toronto General Hospital / UHN).",
+    "transcript": null,
+    "durationSec": 0,
+    "sourceCode": null,
+    "licenseString": "External resource, linked not embedded — not redistributed per its own copyright terms.",
+    "status": "LINKED_EXTERNAL"
+  }
+]

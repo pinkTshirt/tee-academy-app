@@ -1,0 +1,28 @@
+[
+  {
+    "id": "case_as_grading_01",
+    "title": "Discordant Aortic Stenosis Indices",
+    "presentation": "A 78-year-old presents for preoperative echocardiographic assessment prior to noncardiac surgery. TTE shows AV Vmax 3.6 m/s, mean gradient 32 mmHg, and a calculated aortic valve area of 0.85 cm-squared. LVEF is 60%.",
+    "imagingFigureIds": ["fig_4.3.2_grading_table"],
+    "imagingVideoIds": [],
+    "interpretation": "The Vmax (3.6 m/s) and mean gradient (32 mmHg) suggest moderate AS by Doppler indices, but the calculated AVA (0.85 cm-squared) falls in the severe range (<1.0 cm-squared). This is a discordant case. With a normal LVEF and no evidence of reduced transvalvular flow stated, the first priority is to re-check all measurements — particularly LVOT diameter measured at the correct anatomic level (cusp insertion) and confirmation that CW Doppler was obtained from multiple windows including the right parasternal/suprasternal approach.",
+    "decisionPoint": {
+      "question": "What is the most appropriate next step?",
+      "options": [
+        "Accept the AVA and classify as severe AS",
+        "Re-verify LVOT diameter measurement and Doppler technique before reclassifying",
+        "Proceed directly to surgical referral without further workup",
+        "Disregard the AVA entirely and use only the Vmax"
+      ],
+      "rationaleByOption": [
+        "Incorrect — discordant indices should prompt re-checking measurements before accepting either value, since LVOT diameter error is a major source of AVA miscalculation due to the squared relationship in the area calculation.",
+        "Correct — per the BSE 2021 approach to discordant AS indices, the first step is to re-check all measurements, especially LVOT diameter at the correct anatomic level and confirming Doppler was obtained from all windows including non-standard ones.",
+        "Incorrect — surgical referral decisions should not be made on unverified, internally discordant data.",
+        "Incorrect — both Vmax/gradient and AVA carry diagnostic value; neither should be disregarded without first checking for measurement error."
+      ]
+    },
+    "teachingPearl": "When Doppler indices and AVA disagree, technical/measurement error is the most common explanation — re-verify LVOT diameter (measured at cusp insertion, not 1 cm below) and confirm CW Doppler was obtained from multiple acoustic windows before concluding the discordance reflects a genuine low-flow state.",
+    "sourceCode": "BSE-AS2021",
+    "relatedLessonIds": ["4.3.2"]
+  }
+]

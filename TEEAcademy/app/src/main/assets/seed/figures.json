@@ -1,0 +1,38 @@
+[
+  {
+    "id": "fig_1.1.1_me4ch",
+    "lessonId": "1.1.1",
+    "caseId": null,
+    "type": "ORIGINAL_DIAGRAM",
+    "localAssetPath": "media/figures/fig_1.1.1_me4ch.png",
+    "caption": "Schematic of the ME four-chamber view geometry (placeholder — pending final illustration).",
+    "altText": "Diagram showing the midesophageal four-chamber imaging plane through RA, LA, RV, LV, TV, and MV.",
+    "sourceCode": "HAHN2013",
+    "licenseString": "Original diagram (placeholder asset), concept per HAHN2013 — not a reproduction of the source figure.",
+    "orderInLesson": 1
+  },
+  {
+    "id": "fig_4.1.4_pisa",
+    "lessonId": "4.1.4",
+    "caseId": null,
+    "type": "ORIGINAL_DIAGRAM",
+    "localAssetPath": "media/figures/fig_4.1.4_pisa.png",
+    "caption": "Schematic of the PISA flow-convergence method for MR quantification (placeholder — pending final illustration).",
+    "altText": "Diagram showing hemispheric flow convergence proximal to a regurgitant mitral orifice.",
+    "sourceCode": "BSE-MR2021",
+    "licenseString": "Original diagram (placeholder asset), concept per BSE-MR2021 (CC BY-NC-ND 4.0, data referenced not reproduced).",
+    "orderInLesson": 1
+  },
+  {
+    "id": "fig_4.3.2_grading_table",
+    "lessonId": "4.3.2",
+    "caseId": null,
+    "type": "ORIGINAL_DIAGRAM",
+    "localAssetPath": "media/figures/fig_4.3.2_grading_table.png",
+    "caption": "Aortic stenosis severity grading by Vmax, mean gradient, and AVA (placeholder — pending final illustration).",
+    "altText": "Table showing five severity tiers of aortic stenosis by Doppler velocity, gradient, and valve area.",
+    "sourceCode": "BSE-AS2021",
+    "licenseString": "Original diagram (placeholder asset), data per BSE-AS2021 (CC BY-NC-ND 4.0, data referenced not reproduced).",
+    "orderInLesson": 1
+  }
+]

@@ -1,0 +1,220 @@
+[
+  {
+    "id": "0.1.1",
+    "chapterId": "ch0.1",
+    "orderIndex": 0,
+    "title": "Indications for Perioperative/Critical-Care TEE",
+    "objective": "List class I/IIa indications for TEE by clinical setting (cardiac surgery, noncardiac surgery, critical care, transcatheter procedures).",
+    "label": "MK",
+    "estimatedMinutes": 6,
+    "bodyBlocks": [
+      { "type": "paragraph", "text": "TEE should be used in all open-heart and thoracic aortic surgical procedures, and should be considered in CABG surgery, to confirm and refine the preoperative diagnosis, detect new or unsuspected pathology, adjust the anesthetic and surgical plan, and assess the results of intervention." },
+      { "type": "keyPoints", "items": [
+        "TEE is indicated for catheter-based intracardiac procedures.",
+        "In noncardiac surgery, TEE may be used when the procedure or the patient's known/suspected cardiovascular pathology could result in severe hemodynamic, pulmonary, or neurologic compromise.",
+        "In critical care, TEE should be used when diagnostic information that would alter management cannot be obtained by TTE or other modalities in a timely manner."
+      ]},
+      { "type": "pitfall", "text": "These are practice guideline recommendations, not absolute requirements — they are intended to assist clinical decision-making, not replace it." }
+    ],
+    "sourceCodes": ["ASA2010"],
+    "relatedQuizItemIds": ["q_0.1.1_01"],
+    "relatedGlossaryTermIds": []
+  },
+  {
+    "id": "0.1.5",
+    "chapterId": "ch0.1",
+    "orderIndex": 4,
+    "title": "TEE Probe Cleaning & High-Level Disinfection",
+    "objective": "Apply the correct decontamination workflow for a TEE probe between patients.",
+    "label": "MK",
+    "estimatedMinutes": 5,
+    "bodyBlocks": [
+      { "type": "paragraph", "text": "TEE probes require high-level disinfection (HLD) after every use. Unlike a flexible GI endoscope, the TEE probe is not fully immersible — the electrical connector and handle must remain dry, which is the key structural difference driving a dedicated decontamination workflow." },
+      { "type": "keyPoints", "items": [
+        "Workflow: bedside wipe-down immediately post-procedure → manual cleaning → rinse → HLD (immersion or soaked-cloth wrap of the shaft) → thorough rinse of disinfectant residue → dry → storage.",
+        "FDA-cleared HLD agents include ortho-phthalaldehyde (OPA) and glutaraldehyde; OPA has a shorter contact-time claim and requires no activation step.",
+        "Automated endoscope reprocessors (AERs) must be manufacturer-validated specifically for TEE probe compatibility — validation for GI endoscopes does not transfer automatically."
+      ]},
+      { "type": "pitfall", "text": "Probe covers/sheaths reduce but do not eliminate contamination risk — they are not a substitute for HLD between patients. Documented nosocomial outbreaks (e.g., Legionella transmission) have been linked to inadequately disinfected TEE probes." }
+    ],
+    "sourceCodes": ["BSE-DISINFECT"],
+    "relatedQuizItemIds": [],
+    "relatedGlossaryTermIds": []
+  },
+  {
+    "id": "1.1.1",
+    "chapterId": "ch1.1",
+    "orderIndex": 0,
+    "title": "ME Four-Chamber View",
+    "objective": "Acquire the midesophageal four-chamber view and identify RA/LA/RV/LV anatomy, assess global systolic function, and screen for valvular and septal pathology.",
+    "label": "MK",
+    "estimatedMinutes": 8,
+    "bodyBlocks": [
+      { "type": "paragraph", "text": "The ME four-chamber view is acquired at a multiplane angle of approximately 0-10 degrees from the midesophageal level, and is typically the first view obtained in both the basic and comprehensive TEE examinations." },
+      { "type": "figureRef", "figureId": "fig_1.1.1_me4ch" },
+      { "type": "keyPoints", "items": [
+        "2D assessment: chamber sizes (RA/LA/RV/LV), systolic function of RV and LV, ischemia detection in RV/LV territories, valvular anatomy and motion of the TV and MV.",
+        "Color flow Doppler: screen for TV/MV regurgitant pathology and interatrial septal shunting (PFO/ASD).",
+        "Spectral Doppler: TV/MV inflow velocities, and TV inflow can be used to estimate pulmonary artery systolic pressure (PASP)."
+      ]},
+      { "type": "pitfall", "text": "Foreshortening of the LV apex is a common error in this view — withdraw or adjust the probe slightly to ensure the true apex is visualized, or LV size and function will be underestimated." }
+    ],
+    "sourceCodes": ["HAHN2013", "ESSENTIAL"],
+    "relatedQuizItemIds": ["q_1.1.1_01"],
+    "relatedGlossaryTermIds": ["term_me", "term_sax_lax"]
+  },
+  {
+    "id": "4.1.4",
+    "chapterId": "ch4.1",
+    "orderIndex": 3,
+    "title": "Mitral Regurgitation Quantification",
+    "objective": "Apply the PISA method and 3D vena contracta area to grade mitral regurgitation severity.",
+    "label": "MK",
+    "estimatedMinutes": 9,
+    "bodyBlocks": [
+      { "type": "paragraph", "text": "The proximal isovelocity surface area (PISA) method is the recommended quantitative approach to identifying mitral regurgitation severity whenever feasible. PISA measurements are usually made in the apical four-chamber (or, for TEE, the ME four-chamber/long-axis) view, although the long-axis view may provide better alignment for posteriorly-directed eccentric jets such as those seen in ischemic MR or anterior leaflet prolapse." },
+      { "type": "figureRef", "figureId": "fig_4.1.4_pisa" },
+      { "type": "keyPoints", "items": [
+        "PISA is the first-line quantitative method for MR severity whenever feasible.",
+        "3D vena contracta area (3D-VCA) is increasingly used; the threshold for severe MR by 3D-VCA has been defined as greater than 40 mm-squared.",
+        "3D-VCA combined with Doppler parameters may better define the effective regurgitant orifice area (EROA) and regurgitant volume, avoiding the underestimation that can occur with 2D hemispheric assumptions."
+      ]},
+      { "type": "pitfall", "text": "The standard 2D PISA hemispheric assumption underestimates EROA in functional MR, where the regurgitant orifice is crescent-shaped rather than circular — consider 3D-VCA when available, especially in functional/secondary MR." }
+    ],
+    "sourceCodes": ["BSE-MR2021"],
+    "relatedQuizItemIds": ["q_4.1.4_01"],
+    "relatedGlossaryTermIds": ["term_pisa", "term_eroa"]
+  },
+  {
+    "id": "4.3.2",
+    "chapterId": "ch4.3",
+    "orderIndex": 1,
+    "title": "Aortic Stenosis Grading",
+    "objective": "Apply the BSE 2021 Doppler/AVA framework to grade aortic stenosis severity.",
+    "label": "MK",
+    "estimatedMinutes": 10,
+    "bodyBlocks": [
+      { "type": "paragraph", "text": "Aortic stenosis severity is graded using a combination of maximal aortic valve velocity (Vmax), mean pressure gradient, and aortic valve area (AVA) calculated by the continuity equation. There is not a linear relationship between these three indices, so all three should be obtained and interpreted together." },
+      { "type": "figureRef", "figureId": "fig_4.3.2_grading_table" },
+      { "type": "keyPoints", "items": [
+        "Mild AS: Vmax 2.5-2.9 m/s, mean gradient <20 mmHg, AVA >1.5 cm-squared.",
+        "Moderate AS: Vmax 3.0-3.9 m/s, mean gradient 20-39 mmHg, AVA 1.0-1.5 cm-squared.",
+        "Severe AS: Vmax 4.0-4.9 m/s, mean gradient 40-59 mmHg, AVA <1.0 cm-squared.",
+        "Very severe AS: Vmax >=5.0 m/s, mean gradient >=60 mmHg, AVA <=0.6 cm-squared.",
+        "Either the Vmax/gradient criterion OR the AVA criterion alone is sufficient to classify severity — they need not all agree."
+      ]},
+      { "type": "pitfall", "text": "Measure the LVOT diameter at the point of cusp insertion, not 1 cm below it as in older practice — this 2021 BSE methodology change improves reproducibility and reduces overestimation of AVA. Also avoid the term 'critical AS', which the BSE explicitly discourages as poorly defined." }
+    ],
+    "sourceCodes": ["BSE-AS2021"],
+    "relatedQuizItemIds": ["q_4.3.2_01", "q_4.3.2_02"],
+    "relatedGlossaryTermIds": ["term_avg", "term_continuity_equation"]
+  },
+  {
+    "id": "0.2.1",
+    "chapterId": "ch0.2",
+    "orderIndex": 0,
+    "title": "Probe Manipulation Terminology",
+    "objective": "Define and correctly use the standard terminology for TEE probe manipulation: advance/withdraw, anteflex/retroflex, left-flex/right-flex, rotate clockwise/counterclockwise, and multiplane angle.",
+    "label": "MK",
+    "estimatedMinutes": 6,
+    "bodyBlocks": [
+      { "type": "paragraph", "text": "Every standard TEE view is described relative to two independent kinds of motion: gross probe movement within the esophagus/stomach, and electronic beam steering via the multiplane (omniplane) angle. Precise, consistent terminology is essential because the comprehensive exam protocol describes every view acquisition as a specific maneuver from the prior image." },
+      { "type": "keyPoints", "items": [
+        "Advance / withdraw: moving the probe tip deeper into or further out of the esophagus/stomach along its long axis.",
+        "Anteflex / retroflex: bending the probe tip anteriorly (toward the front of the patient) or posteriorly.",
+        "Left-flex / right-flex: bending the probe tip laterally.",
+        "Rotate clockwise (CW) / counterclockwise (CCW): turning the entire probe shaft along its long axis, which sweeps the imaging plane around the mediastinum.",
+        "Multiplane angle: electronic beam steering from 0 to 180 degrees at a fixed probe position — this is a button-controlled function of the transducer, not a physical probe movement."
+      ]},
+      { "type": "pitfall", "text": "Rotating the probe shaft (CW/CCW) and increasing the multiplane angle both change the imaging plane but are not interchangeable — confusing the two is a common source of disorientation for trainees learning to navigate between standard views." }
+    ],
+    "sourceCodes": ["HAHN2013"],
+    "relatedQuizItemIds": [],
+    "relatedGlossaryTermIds": ["term_me", "term_sax_lax"]
+  },
+  {
+    "id": "2.1.1",
+    "chapterId": "ch2.1",
+    "orderIndex": 0,
+    "title": "ME Five-Chamber View",
+    "objective": "Distinguish the ME five-chamber view from the ME four-chamber view and use it to visualize the LVOT.",
+    "label": "MK",
+    "estimatedMinutes": 6,
+    "bodyBlocks": [
+      { "type": "paragraph", "text": "The ME five-chamber view is acquired at approximately 0-10 degrees multiplane angle, similar to the four-chamber view, but typically requires slight anteflexion or withdrawal to bring the left ventricular outflow tract (LVOT) and aortic valve into view anterior to the mitral valve — the 'fifth chamber' being the LVOT/aortic root rather than a true cardiac chamber." },
+      { "type": "keyPoints", "items": [
+        "Visualizes: left atrium, right atrium, left ventricle, right ventricle, interventricular septum, mitral valve, tricuspid valve, AND the LVOT/proximal aortic valve.",
+        "Useful for screening LVOT pathology (e.g., subaortic membranes, dynamic LVOT obstruction) in addition to the standard four-chamber assessment.",
+        "Color Doppler through the LVOT in this view can reveal turbulence from dynamic obstruction or a ventricular septal defect with leftward LVOT extension."
+      ]},
+      { "type": "pitfall", "text": "Because the LVOT is foreshortened in this view compared to the dedicated ME long-axis or AV long-axis views, it should not be used as the primary view for LVOT diameter measurement in continuity-equation calculations." }
+    ],
+    "sourceCodes": ["HAHN2013"],
+    "relatedQuizItemIds": [],
+    "relatedGlossaryTermIds": ["term_me"]
+  },
+  {
+    "id": "3.1.1",
+    "chapterId": "ch3.1",
+    "orderIndex": 0,
+    "title": "3D Modes: Live, Zoom, and Full-Volume",
+    "objective": "Differentiate live/narrow-angle, zoom/wide-angle, and full-volume multi-beat 3D acquisition modes, and select the appropriate mode for a given clinical question.",
+    "label": "MK",
+    "estimatedMinutes": 8,
+    "bodyBlocks": [
+      { "type": "paragraph", "text": "Modern matrix-array TEE probes offer several distinct 3D acquisition modes, each trading off spatial resolution, temporal resolution (frame rate), and field of view differently. Choosing the right mode for the clinical question is a core 3D skill, independent of any specific pathology." },
+      { "type": "keyPoints", "items": [
+        "Live/narrow-angle 3D: a real-time single-beat pyramidal volume (typically 30x60 degrees), usually sufficient to capture an entire valve apparatus (e.g., the mitral valve from the ME mitral commissural view); good initial rapid assessment tool.",
+        "Zoom/wide-angle 3D: a focused wide-sector view from the annulus to the papillary muscle tips, optimized spatial resolution for detailed diagnosis of complex pathology.",
+        "Full-volume multi-beat 3D: stitches together several ECG-gated sub-volumes (typically 4-6 cardiac cycles) into one large dataset with both high spatial AND temporal resolution — but is vulnerable to stitching artifact if the patient moves or has an irregular rhythm during acquisition."
+      ]},
+      { "type": "pitfall", "text": "Multi-beat full-volume acquisition is highly susceptible to stitching artifacts in atrial fibrillation or with patient/respiratory motion during acquisition — inspect the dataset for visible seam lines before relying on it for a structural diagnosis, and prefer single-beat zoom mode when rhythm is irregular." }
+    ],
+    "sourceCodes": ["HAHN2013"],
+    "relatedQuizItemIds": [],
+    "relatedGlossaryTermIds": []
+  },
+  {
+    "id": "5.1.1",
+    "chapterId": "ch5.1",
+    "orderIndex": 0,
+    "title": "General Principles of Pre-Procedural TEE Screening",
+    "objective": "Apply a structured three-purpose framework (mechanism, severity, device candidacy) to pre-procedural TEE screening for structural heart interventions.",
+    "label": "ADV",
+    "estimatedMinutes": 7,
+    "bodyBlocks": [
+      { "type": "paragraph", "text": "Pre-procedural TEE for structural heart interventions (TAVI, transcatheter edge-to-edge repair, LAA closure, and others) serves a different purpose than the standard comprehensive exam: it is structured around screening a specific structure for procedural candidacy, not surveying the whole heart equally." },
+      { "type": "keyPoints", "items": [
+        "Purpose 1 — Mechanism: confirm the underlying mechanism of the target pathology (e.g., Carpentier classification of mitral regurgitation) since mechanism determines which device or repair strategy is even anatomically feasible.",
+        "Purpose 2 — Severity: confirm that the pathology meets the severity threshold that justifies intervention, using the same quantitative criteria taught in the pathology modules (e.g., severe MR, severe AS).",
+        "Purpose 3 — Device candidacy: perform the specific anatomic measurements (annular dimensions, landing zone, adjacent structures) that determine whether a specific device or technique is feasible for this patient's anatomy."
+      ]},
+      { "type": "pitfall", "text": "This module deliberately does not cover device-specific intraprocedural imaging guidance (e.g., step-by-step TAVI or MitraClip deployment monitoring) — that is an explicit scope boundary, not a content gap, matching the scope of the primary TEE-protocol sources this curriculum is built on." }
+    ],
+    "sourceCodes": ["HAHN2013"],
+    "relatedQuizItemIds": [],
+    "relatedGlossaryTermIds": []
+  },
+  {
+    "id": "6.1.1",
+    "chapterId": "ch6.1",
+    "orderIndex": 0,
+    "title": "How to Use the Self-Assessment Question Banks",
+    "objective": "Understand how quiz scope, question count, and practice vs. exam mode work so self-assessment time is used effectively.",
+    "label": "MK",
+    "estimatedMinutes": 3,
+    "bodyBlocks": [
+      { "type": "paragraph", "text": "Every quiz item in this app is mapped to a specific lesson and a specific cited source — if you miss a question, the explanation will point you back to the exact lesson and citation to review, rather than leaving you to guess why an answer was wrong." },
+      { "type": "keyPoints", "items": [
+        "Practice mode gives feedback after every question — best for active learning while you're still building familiarity with a topic.",
+        "Exam mode withholds feedback until the end and blocks backward navigation — best for simulating real test conditions once you feel ready.",
+        "Each question is labeled Must Know or Advanced — if you are short on time, prioritize reviewing missed Must Know items first."
+      ]},
+      { "type": "pitfall", "text": "A single quiz attempt is not a substitute for working through the underlying lesson — use a missed question as a pointer to go re-read the cited lesson in full, not just to memorize the corrected answer choice." }
+    ],
+    "sourceCodes": ["HAHN2013"],
+    "relatedQuizItemIds": [],
+    "relatedGlossaryTermIds": []
+  }
+]
+

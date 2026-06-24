@@ -1,0 +1,11 @@
+[
+  { "id": "ch0.1", "moduleId": "mod0", "orderIndex": 0, "title": "Indications, Contraindications, Safety" },
+  { "id": "ch0.2", "moduleId": "mod0", "orderIndex": 1, "title": "Probe Handling & Imaging Planes" },
+  { "id": "ch1.1", "moduleId": "mod1", "orderIndex": 0, "title": "Basic View Acquisition" },
+  { "id": "ch2.1", "moduleId": "mod2", "orderIndex": 0, "title": "Midesophageal Views (Expanded)" },
+  { "id": "ch3.1", "moduleId": "mod3", "orderIndex": 0, "title": "3D Fundamentals" },
+  { "id": "ch4.1", "moduleId": "mod4", "orderIndex": 0, "title": "Mitral Valve Disease" },
+  { "id": "ch4.3", "moduleId": "mod4", "orderIndex": 1, "title": "Aortic Valve Disease" },
+  { "id": "ch5.1", "moduleId": "mod5", "orderIndex": 0, "title": "Pre-Procedural Screening Principles" },
+  { "id": "ch6.1", "moduleId": "mod6", "orderIndex": 0, "title": "Mixed Self-Assessment" }
+]

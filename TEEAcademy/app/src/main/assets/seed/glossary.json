@@ -1,0 +1,8 @@
+[
+  { "id": "term_me", "term": "Midesophageal (ME)", "definition": "One of the four standard TEE imaging levels; the probe tip is positioned in the esophagus at the level of the heart, behind the left atrium.", "relatedLessonIds": ["1.1.1"] },
+  { "id": "term_sax_lax", "term": "Short Axis / Long Axis (SAX / LAX)", "definition": "Imaging plane orientation relative to a structure's long axis: SAX cuts across it (cross-section), LAX runs along it.", "relatedLessonIds": ["1.1.1"] },
+  { "id": "term_pisa", "term": "Proximal Isovelocity Surface Area (PISA)", "definition": "A flow-convergence method for quantifying regurgitant or stenotic flow by measuring the radius of a hemispheric isovelocity shell proximal to the orifice.", "relatedLessonIds": ["4.1.4"] },
+  { "id": "term_eroa", "term": "Effective Regurgitant Orifice Area (EROA)", "definition": "The smallest cross-sectional area of a regurgitant jet, used to quantify the severity of valvular regurgitation.", "relatedLessonIds": ["4.1.4"] },
+  { "id": "term_avg", "term": "Mean Aortic Valve Gradient (mean AVG)", "definition": "The average of instantaneous pressure gradients across the aortic valve during systole, derived from the continuous-wave Doppler velocity trace via the Bernoulli equation.", "relatedLessonIds": ["4.3.2"] },
+  { "id": "term_continuity_equation", "term": "Continuity Equation", "definition": "A principle stating that stroke volume through the LVOT must equal stroke volume through the aortic valve; used to calculate aortic valve area.", "relatedLessonIds": ["4.3.2"] }
+]

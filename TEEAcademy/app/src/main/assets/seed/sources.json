@@ -1,0 +1,65 @@
+[
+  {
+    "code": "ASA2010",
+    "fullCitation": "American Society of Anesthesiologists and Society of Cardiovascular Anesthesiologists Task Force on Transesophageal Echocardiography. Practice Guidelines for Perioperative Transesophageal Echocardiography. Anesthesiology 2010;112:1084-1096.",
+    "url": null,
+    "reliabilityTier": 1,
+    "licenseStatus": "Reserved copyright (ASA)",
+    "reuseCleared": false,
+    "reuseConstraints": "Text/data extraction only; no figure reproduction."
+  },
+  {
+    "code": "HAHN2013",
+    "fullCitation": "Hahn RT, Abraham T, Adams MS, et al. Guidelines for Performing a Comprehensive Transesophageal Echocardiographic Examination. J Am Soc Echocardiogr 2013;26:921-964.",
+    "url": "https://www.asecho.org/wp-content/uploads/2014/05/2013_Performing-Comprehensive-TEE.pdf",
+    "reliabilityTier": 1,
+    "licenseStatus": "Reserved copyright (ASE)",
+    "reuseCleared": false,
+    "reuseConstraints": "Text/data extraction only; no figure reproduction."
+  },
+  {
+    "code": "HAHN2021",
+    "fullCitation": "Hahn RT, et al. Recommendations for Comprehensive Intraprocedural Echocardiographic Imaging During TAVR/TEER and Structural Heart Procedures. J Am Soc Echocardiogr 2021/2022.",
+    "url": null,
+    "reliabilityTier": 1,
+    "licenseStatus": "Reserved copyright (ASE)",
+    "reuseCleared": false,
+    "reuseConstraints": "Text/data extraction only; no figure reproduction."
+  },
+  {
+    "code": "BSE-AS2021",
+    "fullCitation": "Ring L, Shah BN, Bhattacharyya S, et al. Echocardiographic Assessment of Aortic Stenosis: A Practical Guideline from the British Society of Echocardiography. Echo Res Pract 2021;8(1):G19-G59.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8115410",
+    "reliabilityTier": 2,
+    "licenseStatus": "CC BY-NC-ND 4.0",
+    "reuseCleared": true,
+    "reuseConstraints": "Text/data freely citable; figures usable verbatim non-commercially, no modification permitted."
+  },
+  {
+    "code": "BSE-MR2021",
+    "fullCitation": "British Society of Echocardiography. The Assessment of Mitral Valve Disease: A Guideline from the BSE. Echo Res Pract 2021;8(1).",
+    "url": "https://erp.bioscientifica.com/view/journals/echo/8/1/ERP-20-0034.xml",
+    "reliabilityTier": 2,
+    "licenseStatus": "CC BY-NC-ND 4.0",
+    "reuseCleared": true,
+    "reuseConstraints": "Text/data freely citable; figures usable verbatim non-commercially, no modification permitted."
+  },
+  {
+    "code": "ESSENTIAL",
+    "fullCitation": "Maus TM, et al. (eds). Essential Echocardiography: A Practical Handbook with DVD. Springer, 2016.",
+    "url": null,
+    "reliabilityTier": 2,
+    "licenseStatus": "Reserved copyright (Springer)",
+    "reuseCleared": false,
+    "reuseConstraints": "Text/data extraction only; no figure reproduction."
+  },
+  {
+    "code": "BSE-DISINFECT",
+    "fullCitation": "Kanagala P, Bradley C, Hoffman P, Steeds RP (British Society of Echocardiography). Guidelines for Transoesophageal Echocardiography Probe Cleaning and Disinfection. Eur J Echocardiogr 2011;12(10):i17-i23.",
+    "url": "https://www.bsecho.org",
+    "reliabilityTier": 2,
+    "licenseStatus": "Free-to-read, reserved copyright",
+    "reuseCleared": false,
+    "reuseConstraints": "Text reference only."
+  }
+]

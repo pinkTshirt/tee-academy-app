@@ -1,0 +1,67 @@
+[
+  {
+    "id": "q_0.1.1_01",
+    "lessonId": "0.1.1",
+    "label": "MK",
+    "stem": "According to the ASA/SCA practice guidelines, in which setting is TEE explicitly recommended to be used in all cases (absent contraindication)?",
+    "options": [
+      "All open-heart and thoracic aortic surgical procedures",
+      "All elective outpatient procedures under sedation",
+      "Only when the patient is symptomatic preoperatively",
+      "Only when transthoracic echocardiography is unavailable"
+    ],
+    "correctIndex": 0,
+    "explanation": "The ASA/SCA guideline states TEE should be used in all open-heart (e.g., valvular procedures) and thoracic aortic surgical procedures, and should be considered in CABG as well.",
+    "sourceCode": "ASA2010"
+  },
+  {
+    "id": "q_1.1.1_01",
+    "lessonId": "1.1.1",
+    "label": "MK",
+    "stem": "A sonographer notices the LV apex appears unusually short and rounded in the ME four-chamber view. What is the most likely explanation?",
+    "options": [
+      "True apical hypertrophy",
+      "Foreshortening of the LV apex",
+      "Severe mitral stenosis",
+      "Normal anatomic variant requiring no action"
+    ],
+    "correctIndex": 1,
+    "explanation": "Foreshortening of the LV apex is a common acquisition error in the ME four-chamber view. The probe should be withdrawn or adjusted to capture the true apex, or LV size and function will be underestimated.",
+    "sourceCode": "HAHN2013"
+  },
+  {
+    "id": "q_4.1.4_01",
+    "lessonId": "4.1.4",
+    "label": "MK",
+    "stem": "Per the BSE 2021 mitral valve disease guideline, what 3D vena contracta area threshold is used to define severe mitral regurgitation?",
+    "options": ["> 10 mm-squared", "> 20 mm-squared", "> 40 mm-squared", "> 80 mm-squared"],
+    "correctIndex": 2,
+    "explanation": "The BSE guideline defines the threshold for severe MR by 3D vena contracta area as greater than 40 mm-squared.",
+    "sourceCode": "BSE-MR2021"
+  },
+  {
+    "id": "q_4.3.2_01",
+    "lessonId": "4.3.2",
+    "label": "MK",
+    "stem": "A patient has an aortic valve Vmax of 4.3 m/s and a mean gradient of 38 mmHg. What is the most appropriate severity classification?",
+    "options": ["Mild", "Moderate", "Severe", "Very severe"],
+    "correctIndex": 2,
+    "explanation": "Vmax 4.0-4.9 m/s alone is sufficient to classify severe AS per the BSE 2021 grading table, even though the mean gradient (38 mmHg) falls just short of the 40 mmHg severe threshold — either criterion alone is sufficient.",
+    "sourceCode": "BSE-AS2021"
+  },
+  {
+    "id": "q_4.3.2_02",
+    "lessonId": "4.3.2",
+    "label": "ADV",
+    "stem": "Per the 2021 BSE guideline, where should the LVOT diameter be measured for the continuity equation, and why does this matter?",
+    "options": [
+      "1 cm below the cusp insertion point — unrelated to accuracy",
+      "At the point of cusp insertion — improves inter-observer reproducibility and better corresponds to invasively-derived AVA",
+      "At the sinotubular junction — simplifies measurement",
+      "Anywhere convenient, since location does not affect the calculated AVA"
+    ],
+    "correctIndex": 1,
+    "explanation": "The 2021 BSE guideline changed recommended practice to measure the LVOT diameter at the point of aortic cusp insertion (not 1 cm below, as in older practice), improving reproducibility and correlation with invasively-measured AVA.",
+    "sourceCode": "BSE-AS2021"
+  }
+]
