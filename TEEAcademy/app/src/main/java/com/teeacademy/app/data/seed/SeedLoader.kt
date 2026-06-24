@@ -10,7 +10,7 @@ import javax.inject.Inject
 import javax.inject.Singleton
 
 /**
- * Loads assets/seed/*.json into Room on first launch or when the bundled
+* Loads the *.json files under assets/seed into Room on first launch or when the bundled
  * seed version (CURRENT_SEED_VERSION) is newer than what's stored in
  * app_meta. Content tables are cleared and replaced; user-generated
  * tables (bookmarks/notes/highlights/quiz_attempts/lesson_progress) are
