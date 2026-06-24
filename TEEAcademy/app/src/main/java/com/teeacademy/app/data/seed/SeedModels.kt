@@ -5,7 +5,7 @@ import kotlinx.serialization.Serializable
 /**
  * These @Serializable classes mirror the JSON schema defined in Phase 5
  * (Content Ingestion Plan, Section 2) exactly. SeedLoader parses
- * assets/seed/*.json into these, then maps to Room entities for insertion.
+ * the *.json files under assets/seed into these, then maps to Room entities for insertion.
  */
 
 @Serializable
