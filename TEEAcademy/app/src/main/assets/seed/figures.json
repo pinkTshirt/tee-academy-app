@@ -9,6 +9,7 @@
     "altText": "Diagram showing the midesophageal four-chamber imaging plane through RA, LA, RV, LV, TV, and MV.",
     "sourceCode": "HAHN2013",
     "licenseString": "Original diagram (placeholder asset), concept per HAHN2013 — not a reproduction of the source figure.",
+    "reuseCleared": true,
     "orderInLesson": 1
   },
   {
@@ -21,6 +22,7 @@
     "altText": "Diagram showing hemispheric flow convergence proximal to a regurgitant mitral orifice.",
     "sourceCode": "BSE-MR2021",
     "licenseString": "Original diagram (placeholder asset), concept per BSE-MR2021 (CC BY-NC-ND 4.0, data referenced not reproduced).",
+    "reuseCleared": true,
     "orderInLesson": 1
   },
   {
@@ -33,6 +35,7 @@
     "altText": "Table showing five severity tiers of aortic stenosis by Doppler velocity, gradient, and valve area.",
     "sourceCode": "BSE-AS2021",
     "licenseString": "Original diagram (placeholder asset), data per BSE-AS2021 (CC BY-NC-ND 4.0, data referenced not reproduced).",
+    "reuseCleared": true,
     "orderInLesson": 1
   }
 ]
