@@ -24,7 +24,7 @@ import com.teeacademy.app.data.local.entity.*
         AppMetaEntity::class
     ],
     version = 1,
-    exportSchema = true
+    exportSchema = false
 )
 abstract class AppDatabase : RoomDatabase() {
     abstract fun moduleDao(): ModuleDao
