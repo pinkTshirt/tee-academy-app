@@ -21,8 +21,8 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
-import com.teeacademy.app.ui.case.CaseDetailScreen
-import com.teeacademy.app.ui.case.CaseListScreen
+import com.teeacademy.app.ui.cases.CaseDetailScreen
+import com.teeacademy.app.ui.cases.CaseListScreen
 import com.teeacademy.app.ui.figure.FigureScreen
 import com.teeacademy.app.ui.glossary.GlossaryScreen
 import com.teeacademy.app.ui.home.HomeScreen
